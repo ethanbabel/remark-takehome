@@ -1,0 +1,37 @@
+facets:
+  ability:
+    allowed_values:
+      - Beginner
+      - Intermediate
+      - Advanced
+    multi_valued: true
+    required: false
+    default_value: Intermediate
+
+  terrain:
+    allowed_values:
+      - All-Mountain
+      - Powder
+      - Park
+      - Backcountry
+    multi_valued: true
+    required: false
+    default_value: null
+
+  gender:
+    allowed_values:
+      - Mens
+      - Womens
+      - Unisex
+    multi_valued: false
+    required: false
+    default_value: null
+
+  weight:
+    allowed_values:
+      - lightweight
+      - mediumweight
+      - heavyweight
+    multi_valued: false
+    required: false
+    default_value: mediumweight

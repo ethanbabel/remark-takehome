@@ -1,0 +1,30 @@
+[
+  {
+    "id": "prod-001",
+    "title": "All-Mountain Skis 100",
+    "body_html": "Lightweight all-mountain skis perfect for intermediate to advanced skiers.",
+    "tags": ["ability:Intermediate", "ability:Advanced", "terrain:All-Mountain", "gender:Mens"],
+    "vendor": "Liberty Skis"
+  },
+  {
+    "id": "prod-002",
+    "title": "Freestyle Skis 90",
+    "body_html": "Ideal for tricks and park terrain. Great for beginners too.",
+    "tags": ["ability:Beginner", "terrain:Park", "gender:Unisex"],
+    "vendor": "Faction"
+  },
+  {
+    "id": "prod-003",
+    "title": "Backcountry Touring Skis",
+    "body_html": "Designed for the backcountry explorer. Ultra light with high float.",
+    "tags": [],
+    "vendor": "Black Diamond"
+  },
+  {
+    "id": "prod-004",
+    "title": "Padded Ski Bag",
+    "body_html": "Durable padded bag for safely transporting skis during travel. Adjustable straps and waterproof lining included.",
+    "tags": ["gender:Unisex"],
+    "vendor": "Ski Gear Co."
+  }
+]
