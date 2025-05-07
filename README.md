@@ -77,12 +77,12 @@ python3 cli.py --store-url <store_url> --output-file <output_file> --user-define
 
 #### Process Products from a Shopify Store
 ```bash
-python3 cli.py run --store-url libertyskis.com --output-file labeled_products.json --user-defined-facets example_config.yaml --suggest-facet-values ask --suggest-new-facets ask --limit 10
+python3 cli.py --store-url libertyskis.com --output-file labeled_products.json --user-defined-facets example_config.yaml --suggest-facet-values ask --suggest-new-facets ask --limit 10
 ```
 
 #### Process Products from a Local File
 ```bash
-python3 cli.py run --product-file example_products.json --output-file labeled_products.json --user-defined-facets input_examples/example_config.yaml --suggest-facet-values yes --suggest-new-facets no
+python3 cli.py --product-file example_products.json --output-file labeled_products.json --user-defined-facets input_examples/example_config.yaml --suggest-facet-values yes --suggest-new-facets no
 ```
 
 ### User Defined Facets
